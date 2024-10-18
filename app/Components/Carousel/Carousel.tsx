@@ -44,7 +44,7 @@ const games: GameData[] = [
         githubLink: "https://github.com/q-ello/Clone-Master"
     },
     {
-        videoSrc: "/gameplayVids/Bewre the Rectangle.mp4",
+        videoSrc: "/gameplayVids/Beware the Rectangle.mp4",
         name: "Beware the Rectangle",
         description: "Простая игра, где главная задача: уклоняться от платформы. Сделана в процессе изучения GLSL.",
         stack: "GLSL",
